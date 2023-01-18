@@ -1,8 +1,7 @@
-Triage Login:
-Full Name: dvdBase Free Account
+## Triage Login:
 Email: dv@mailsac.com
-Password: FreeAccount
+- Password: FreeAccount
 _______________________________________________________________
 
-Mailsac Login:
+## Mailsac Login:
 dv@mailsac.com        ---------->     Check The Mail    ,,,,,   For Verification
